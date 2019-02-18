@@ -2,7 +2,7 @@
 TUP - Manila Supply Office Inventory System
 
 MEMBERS:
-Aquino, Justice Sachicko
-Cabason, Rikki Coleen
-Pilarca, Pearl Vina
-Talagtag, Nicole
+Aquino, Justice Sachicko (sachick04)
+Cabason, Rikki Coleen (RikkiColeenCabason)
+Pilarca, Pearl Vina (PEARLVINA)
+Talagtag, Nicole (NicoleTalagtag)
